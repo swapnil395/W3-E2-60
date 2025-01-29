@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bike Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .bike-image {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+        .bike-image img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bike Information</h1>
+
+    <div class="bike-image">
+        <img src=https://media.zigcdn.com/media/content/2023/Apr/cover_64329971e5a76.png alt="Bike Image">
+    </div>
+
+    <div class="specifications">
+        <h2>Specifications</h2>
+        <ul>
+            <li><strong>Brand:</strong>Royal Enfield   </li>
+            <li><strong>Model:</strong> Continental GT 650
+</li>
+            <li><strong>Engine:</strong>  648cc engine offers 47 horsepower at 7150 RPM and a maximum of 52 Nm of torque at 5250 RPM</li>
+            <li><strong>Top Speed:</strong> 160 km/h</li>
+            <li><strong>Mileage:</strong> 25 km/l</li>
+            <li><strong>Price:</strong> From ₹3.43 lakhs</li>
+            <P> The Continental GT 650 alongside the Interceptor 650 was introduced in November 2017.[3] The café racer has either a standard dual-seat or an optional solo seat with a seat hump. The fuel tank is more angular than the roadster's. Clip-on handlebars and rear-set pegs allow a sportier riding position.</p>
+        </ul>
+    </div>
+</body>
+</html>
